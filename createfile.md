@@ -1,0 +1,1 @@
+it is a file what teach you how to creat a new file with instruction "vi".
